@@ -1,0 +1,14 @@
+Promise {<pending>}
+[[Prototype]]
+: 
+Promise
+[[PromiseState]]
+: 
+"fulfilled"
+[[PromiseResult]]
+: 
+Object
+id
+: 
+273
+p
